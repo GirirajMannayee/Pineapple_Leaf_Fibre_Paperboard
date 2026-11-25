@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this datapack, please cite it as below and cite the associated manuscript."
+title: "PALF-FSM Paperboard Datapack: data, code and figures for pineapple leaf fibre paperboard with fenugreek mucilage-turmeric biocoatings"
+version: 1.0.0
+date-released: 2026-11-25
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: "AUTHOR-SURNAME"
+    given-names: "AUTHOR-GIVEN-NAMES"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/INSERT-USER/PALF-FSM-Paperboard-Datapack"
+doi: "10.5281/zenodo.INSERT"
+keywords: [pineapple leaf fibre, paperboard, fenugreek mucilage, turmeric, biocoating, response surface methodology, desirability, barrier properties]

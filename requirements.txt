@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+openpyxl>=3.1
+pillow>=10.0
+python-docx>=1.1   # only for scripts/00_extract_from_manuscript.py
+pytest>=8.0
