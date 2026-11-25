@@ -1,0 +1,7 @@
+﻿Target,Method [ref.],Typical conditions,Sample,Report as
+Total viable count (aerobic mesophiles),"ISO 4833-1 [30], pour plate","30 °C, 72 h",Surface swab; food homogenate,log10 CFU cm⁻² or g⁻¹
+Yeasts and moulds,"ISO 21527-1 or -2 [31], by water activity","25 °C, about 5 days",Surface swab; food homogenate,log10 CFU cm⁻² or g⁻¹
+Enterobacteriaceae,"ISO 21528-2 [35], colony count","37 °C, 24 h",Food homogenate; surface where relevant,log10 CFU g⁻¹
+Escherichia coli,ISO 16649-2 [36],"44 °C, 18–24 h",Food homogenate,log10 CFU g⁻¹
+Salmonella (if required by risk assessment),ISO 6579-1 [37]; accredited laboratory,"Per method, 25 g",Food,Detected / not detected in 25 g
+Antimicrobial challenge (only if claimed),Adapted and validated surface challenge based on ISO 22196 [28],"Defined organism, contact time and RH",Matched treated and untreated specimens,LR

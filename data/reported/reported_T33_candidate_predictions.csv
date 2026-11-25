@@ -1,0 +1,9 @@
+﻿Response,Predicted candidate,Unit,Role
+Cobb60,66.78,g m⁻²,Minimise
+WVTR,343.52,g m⁻² day⁻¹,Minimise
+Grease-kit rating,3.98,Ordinal rating,Maximise
+Folding endurance,87.47,Double folds,Maximise
+Compression,217.68,N,Maximise
+OTR,1593.97,cm³ m⁻² day⁻¹,Monitor; application-specific target
+Coating add-on,1.964,g m⁻²,Supporting response
+Drying energy,0.4795,kWh kg⁻¹,Supporting response

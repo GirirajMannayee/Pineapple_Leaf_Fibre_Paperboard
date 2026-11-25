@@ -1,0 +1,10 @@
+﻿Dataset component,Records / structure,Role in manuscript,Data status
+PALF pulp preparation,2 populated batches,Pulp descriptors and process parameters,Laboratory records (author-confirmed)
+Paperboard sheet formation,2 sheet records,"Grammage, caliper and base mechanical properties",Laboratory records (author-confirmed)
+FSM extraction,2 populated batches,"Extraction yield, solids, pH and viscosity",Laboratory records (author-confirmed)
+Turmeric preparation,Powder and extract records,"Ingredient form, solids, particle size and curcumin field",Laboratory records
+RSM run summary,30 design runs,Four-factor response-surface dataset,Laboratory run records
+RSM replicate sheet,90 rows; 3 records per run,Within-run replicate measurements,Laboratory replicate records
+Package comparison,15 rows; 5 per group,Three-group package-performance comparison,Laboratory records
+Shelf-life summary,18 group-time summaries,Six time points × three groups,Calculated from storage records
+Thickness optimisation,41 thickness-grid values,Predicted response and desirability profile,Model-derived from measured dataset

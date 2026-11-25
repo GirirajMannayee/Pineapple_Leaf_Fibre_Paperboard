@@ -1,0 +1,5 @@
+﻿Factor,Symbol,Low,Centre,High,Unit
+Dry coating thickness,A,5,15,25,µm
+FSM solids,B,1,3,5,% w/w
+Glycerol relative to dry FSM,C,15,25,35,%
+Drying temperature,D,40,50,60,°C

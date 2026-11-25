@@ -1,0 +1,9 @@
+﻿Factor / response,Mechanistic expectation,Observation in this work,Evidence
+Coating thickness (A),Longer diffusion path; pore bridging; higher film continuity,"Strong: Cobb60 and WVTR fall, grease rating rises (+1.02 per coded unit); folding and compression peak at intermediate thickness","Table 17; Figs 7, 8"
+FSM solids (B),More polymer per unit area; higher viscosity and add-on,"Strong: Cobb60 -8.2, WVTR -17.1, grease +0.62, folding +2.0 per coded unit; viscosity 790 → 1150 mPa·s from 1 to 5 %",Table 17; Section 4.7
+Glycerol (C),Plasticisation; higher chain mobility and water affinity,No significant main effect over 15–35 %; antagonistic B×C interaction on Cobb60 and WVTR,Table 17
+Drying temperature (D),Film consolidation; lower residual moisture,"Modest benefit: lower Cobb60 and WVTR, higher grease and compression, slightly lower folding",Table 17
+Turmeric (0.5–1.0 %),"Particle dispersion, roughness, colour",Not separable; confounded with thickness and FSM,Fig 24
+Liquid vs vapour vs gas,Pore sealing controls liquid and grease; solution–diffusion controls vapour and gas,"Cobb60 -70 %, grease ×3.4, WVTR -32 %, OTR -6 %",Table 29
+Mechanical response,Film stiffening and interfibre bond disruption,"Tensile, burst and folding lower by 5.5–12 %; compression +6 %",Table 20
+Storage quality,Reduced moisture loss; slower decay and browning,"Mass loss -24 %, decay -37 %, ΔE*ab 5.2 vs 9.1; headspace gases unchanged",Table 24

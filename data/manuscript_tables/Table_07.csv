@@ -1,0 +1,14 @@
+﻿Parameter,FSM-B01,FSM-B02,Unit
+Seed mass,100,100,g
+Hydration water,1000,1000,mL
+Hydration temperature,25,25,°C
+Hydration time,120,120,min
+Extraction temperature,70,70,°C
+Extraction time,60,60,min
+Wet mucilage mass,180,175,g
+Dry solids mass,8.5,8.2,g
+Extraction yield,8.5,8.2,%
+Total solids,4.7,4.5,%
+pH,6.4,6.3,—
+Viscosity,1250,1180,mPa·s
+Ash,1.2,1.1,%

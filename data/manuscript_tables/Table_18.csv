@@ -1,0 +1,14 @@
+﻿Parameter,Candidate value,Unit
+Thickness,23.87,µm
+FSM solids,3,% w/w
+Glycerol,25,% dry FSM
+Drying temperature,50,°C
+Overall desirability,0.6281,0–1
+Cobb60,75.73,g m⁻²
+WVTR,359.2,g m⁻² day⁻¹
+Grease-kit rating,3.31,ordinal rating
+Folding endurance,86.13,double folds
+Compression,213.84,N
+OTR,1630.93,cm³ m⁻² day⁻¹
+Coating add-on,1.987,g m⁻²
+Drying energy,0.4648,kWh kg⁻¹

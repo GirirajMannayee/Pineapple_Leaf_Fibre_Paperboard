@@ -1,0 +1,6 @@
+﻿Code,Group,FSM solids (%),Turmeric (% dry FSM),Glycerol (% dry polymer),Total solids (%),Water (g),FSM (g),Turmeric (g),Glycerol (g),Mixing (rpm),Time (min),pH,Viscosity (mPa·s)
+U0,U0,0,0,0,0,100,0,0,0,0,0,7,0
+F1,F1,3,0,25,3.748,96.3,3,0,0.75,500,10,6.4,850
+FT05,FT,3,0.5,25,3.763,96.285,3,0.015,0.75,700,15,6.2,920
+FT10,FT,3,1,25,3.778,96.27,3,0.03,0.75,700,15,6.1,980
+T1,T1,0,0.5,0,0.5,99.5,0,0.5,0,700,15,6,600

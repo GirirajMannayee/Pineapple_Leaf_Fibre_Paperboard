@@ -1,0 +1,5 @@
+﻿Algorithm,Thickness (µm),FSM solids (%),Glycerol (% dry FSM),Drying temp (°C),Desirability
+Differential evolution (DE),21.58,5.00,26.94,55.72,0.8042
+Particle swarm optimisation (PSO),21.58,5.00,26.94,55.72,0.8042
+Cockroach swarm optimisation,21.57,5.00,26.95,55.72,0.8042
+Original thickness-only search,23.87,3.00,25.00,50.00,0.6281

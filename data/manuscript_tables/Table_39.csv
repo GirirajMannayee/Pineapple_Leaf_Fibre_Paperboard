@@ -1,0 +1,9 @@
+﻿Item,Recalculated from records,Reported,Status
+"Apparent density, SHT-01 / SHT-02",248 ÷ 620 = 0.400; 252 ÷ 630 = 0.400,0.40; 0.40,Consistent
+"Pulp yield, B01 / B02",285 ÷ 1000 = 28.5 %; 278 ÷ 1000 = 27.8 %,28.5; 27.8 %,Consistent; state feedstock moisture basis
+"Pulp composition sum, B01 / B02",72 + 18 + 7 + 2.1 + 4.2 = 103.3 %; 103.0 %,—,Exceeds 100 %; state analytical basis
+FSM extraction yield,8.5 ÷ 100; 8.2 ÷ 100,8.5; 8.2 %,Consistent
+"FSM total solids, B01 / B02",8.5 ÷ 180 = 4.72 %; 8.2 ÷ 175 = 4.69 %,4.7; 4.5 %,B01 consistent; B02 differs by 0.19 points
+"Formulation total solids, F1 / FT05 / FT10",3.748; 3.763; 3.778 %,3.748; 3.763; 3.778 %,Consistent
+"Turmeric loading basis, FT05 / FT10",0.015 ÷ 3.75 = 0.40 %; 0.030 ÷ 3.75 = 0.80 % of FSM + glycerol solids; 0.5 % and 1.0 % of dry FSM,0.5; 1.0 % of dry coating solids,Basis is dry FSM; correct the label
+"Implied coating density, FT05 / FT10",14.2 ÷ 15.0 = 0.95; 23.0 ÷ 24.5 = 0.94 g cm⁻³,—,Below typical dense polysaccharide films (about 1.2–1.5 g cm⁻³); check penetration or porosity by microscopy

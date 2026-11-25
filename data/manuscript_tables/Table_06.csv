@@ -1,0 +1,7 @@
+﻿Index,SHT-01,SHT-02,Unit
+Porosity (ρcell = 1.5 g cm⁻³),73.3,73.3,%
+"Tensile index, MD",16.9,16.5,N m g⁻¹
+"Tensile index, CD",8.5,8.1,N m g⁻¹
+MD/CD tensile ratio,2.00,2.02,—
+Burst index,0.726,0.698,kPa m² g⁻¹
+Tear index,2.10,2.02,mN m² g⁻¹

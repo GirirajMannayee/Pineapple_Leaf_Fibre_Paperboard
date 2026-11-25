@@ -1,0 +1,9 @@
+﻿Element,Requirement,Reason
+Independent units,At least 3 independently prepared coating batches; separate unopened packages per time point,Batch is the experimental unit; avoids pseudoreplication
+Treatments,"Uncoated PALF, FSM-only, each turmeric formulation used in a claim, commercial reference",Matched comparators; no claim for untested materials
+Blanks and sterility,"Process, diluent and uninoculated controls",Detects contamination during handling
+Recovery and neutralisation,Recovery efficiency and neutraliser efficacy shown on paperboard,Porous board absorbs inoculum and can carry residual activity
+Inoculum and detection limits,Verify inoculum; state LOD and LOQ; keep values below LOD as censored,Zero substitution biases means and log reductions
+Raw records,"Counts, dilutions, plates, rejected plates, incubator ID, analyst, chain of custody",Auditability
+Biosafety,"Pathogen challenge only in a suitably equipped, approved laboratory",Safety and regulatory requirement
+Claim rule,"A claim needs reproducible LR against the matched control, limited to the organisms, contact conditions and times tested; decay incidence is never converted to CFU",Prevents over-claiming

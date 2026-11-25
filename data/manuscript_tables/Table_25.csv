@@ -1,0 +1,4 @@
+﻿Specimen ID,Run ID,Pulp batch,Treatment,Grease method,Grease rating (ordinal),Tensile MD (N/m),Tensile CD (N/m),Burst (kPa),Tear (mN),Folding (double folds),Wet tensile (N/m),Wet burst (kPa)
+SP-U0,R01,PALF-B01,U0,Kit,2,4200,2100,180,520,95,1200,130
+SP-FT05,R09,PALF-B02,FT,Kit,5,3650,1900,155,480,81,1090,112
+SP-FT10,R04,PALF-B02,FT,Kit,6,3500,1800,150,460,76,1050,108

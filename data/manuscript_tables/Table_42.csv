@@ -1,0 +1,8 @@
+﻿Item,Finding,Action,Status
+Equation 9 notation,"Permeance written as P, while Equations 13–14 use Π for permeance and P for permeability","Changed to Πeff, Πs, Πc; caption now says permeances",Corrected
+Decay reduction,"(61.675 - 38.648) ÷ 61.675 = 37.3 %, not 37.4 %",Corrected in Section 4.5.1,Corrected
+Porosity and indices,"Equation 2 gives 73.3 %; tensile, burst and tear indices 16.9, 0.726 and 2.10 (SHT-01)",Recomputed from Table 5,Verified
+Series partition,BIF = 416.25 ÷ 281.38 = 1.48; coating share 32.4 %; coating-only WVTR 868 g m⁻² day⁻¹; OTR share 6.4 %,Recomputed from Table 19 means,Verified
+Defect ceiling,1/0.04 to 1/0.02 gives 25–50-fold (Equation 14),Recomputed,Verified
+Design run count,16 + 8 + 6 = 30 (Equation 38),Recomputed,Verified
+FSM solids,8.5 ÷ 180 = 4.72 %; 8.2 ÷ 175 = 4.69 %,Matches Table 39 note on FSM-B02,Verified

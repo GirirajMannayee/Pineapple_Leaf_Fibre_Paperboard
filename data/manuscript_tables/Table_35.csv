@@ -1,0 +1,9 @@
+﻿Scenario,A (µm),B (%),C (%),D (°C),D overall,Cobb60,WVTR,Grease,Fold,Compr.
+"Baseline (source bounds, equal weights)",21.58,5.00,26.94,55.7,0.8042,66.8,343.5,3.98,87.5,217.7
+Targets 10 % less demanding,19.99,5.00,26.74,54.7,0.8646,68.2,355.1,3.73,88.9,217.8
+Targets 10 % more demanding,21.58,5.00,26.94,55.7,0.7452,66.8,343.5,3.98,87.5,217.7
+Double weight Cobb60+WVTR,22.07,5.00,26.88,54.7,0.8539,66.3,340.0,4.03,87.4,216.9
+Double weight grease,21.69,5.00,26.95,55.8,0.8339,66.7,342.7,4.00,87.4,217.7
+Double weight fold+compression,19.23,5.00,26.93,55.3,0.7535,68.8,359.7,3.64,89.2,218.3
+"Barrier only (Cobb60, WVTR, grease)",23.73,4.78,30.28,54.8,1.0000,66.6,331.8,4.13,85.7,216.9
+FSM solids capped at 4 %,23.49,4.00,26.79,55.4,0.7513,70.8,345.4,3.77,86.3,217.2

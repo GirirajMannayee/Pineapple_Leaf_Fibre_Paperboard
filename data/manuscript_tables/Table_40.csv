@@ -1,0 +1,10 @@
+﻿Quantity,30-run RSM (run means),Coating DOE / specimens,Package groups,Comment
+Add-on at about 15 µm (g m⁻²),1.56–1.65 (centre runs),14.2–14.4,—,About 9× difference; implied density 0.11 vs 0.95 g cm⁻³
+Cobb60 at about 15 µm (g m⁻²),80.3–82.8,25–26 (DOE); 25 (SP-FT05),24.6 (coated); 80.9 (uncoated),RSM centre equals uncoated
+WVTR at about 15 µm (g m⁻² day⁻¹),398.6–413.5,280–283,281.4 (coated); 416.3 (uncoated),As above
+"Grease-kit rating, coated",2.05–2.38 (centre),5 (DOE R09–R10),6.16,Scale or method difference
+Tensile MD,26.8–32.8 kN m⁻¹,3.5–4.2 kN m⁻¹,30.5–35.2 kN m⁻¹,About 8× difference; check units
+Burst (kPa),132–149,148–180,139–158,Consistent
+Folding (double folds),76–96,74–95,80–111,Consistent
+OTR (cm³ m⁻² day⁻¹),1550–1745,1500–1750,1544–1701,Consistent
+Drying energy (kWh kg⁻¹),0.42–0.50,0.12–0.18,—,About 3× difference; check basis

@@ -1,0 +1,3 @@
+turmeric_form,initial_mass_g,solvent_volume_ml,extraction_temp_c,extraction_time_min,dry_solids_pct,particle_size_um,curcumin_pct,ph
+Turmeric powder,10.0,200.0,60.0,30.0,92.0,45.0,3.2,6.1
+Turmeric extract,20.0,400.0,60.0,45.0,8.0,,,5.8

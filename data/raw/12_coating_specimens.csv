@@ -1,0 +1,4 @@
+specimen_id,run_id,pulp_batch,treatment,grease_method,grease_rating_ordinal,tensile_md_n_m,tensile_cd_n_m,burst_kpa,tear_mn,fold_double_folds,wet_tensile_n_m,wet_burst_kpa,group,grammage_g_m2,caliper_um,density_g_cm3,moisture_pct,add_on_g_m2,dry_thickness_um,thickness_mean_sd_um,coverage_pct,pinholes_count,roughness_um,contact_angle_deg,cobb60_g_m2,wvtr_g_m2_day,otr_cm3_m2_day,thickness_p1_um,thickness_p2_um,thickness_p3_um
+SP-U0,R01,PALF-B01,U0,Kit,2.0,4200.0,2100.0,180.0,520.0,95.0,1200.0,130.0,U0,248.0,620.0,0.4,7.5,0.0,0.0,—,0.0,0.0,5.2,78.0,82.0,410.0,1700.0,,,
+SP-FT05,R09,PALF-B02,FT,Kit,5.0,3650.0,1900.0,155.0,480.0,81.0,1090.0,112.0,FT,250.0,635.0,0.39,7.8,14.2,15.0,15.00 ± 0.46,96.0,1.0,4.8,76.0,25.0,280.0,1600.0,14.5,15.1,15.4
+SP-FT10,R04,PALF-B02,FT,Kit,6.0,3500.0,1800.0,150.0,460.0,76.0,1050.0,108.0,FT,252.0,650.0,0.39,8.0,23.0,24.5,24.50 ± 0.46,98.0,0.0,4.6,80.0,20.0,260.0,1500.0,24.0,24.6,24.9

@@ -1,0 +1,4 @@
+﻿Specimen ID,Run ID,Pulp batch,Group,Grammage (g/m²),Caliper (µm),Density (g/cm³),Moisture (%),Add-on (g/m²),Dry thickness (µm),Thickness P1/P2/P3 (µm),Mean ± SD (µm),Coverage (%),Pinholes (count),Roughness (µm),Contact angle (°),Cobb60 (g/m²),WVTR (g/m²·day),OTR (cm³/m²·day)
+SP-U0,R01,PALF-B01,U0,248,620,0.4,7.5,0,0,— / — / —,—,0,0,5.2,78,82,410,1700
+SP-FT05,R09,PALF-B02,FT,250,635,0.39,7.8,14.2,15,14.5 / 15.1 / 15.4,15.00 ± 0.46,96,1,4.8,76,25,280,1600
+SP-FT10,R04,PALF-B02,FT,252,650,0.39,8,23,24.5,24 / 24.6 / 24.9,24.50 ± 0.46,98,0,4.6,80,20,260,1500

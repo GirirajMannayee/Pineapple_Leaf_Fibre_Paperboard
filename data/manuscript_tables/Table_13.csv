@@ -1,0 +1,11 @@
+﻿Response,R² (laboratory run means),RMSE
+Cobb60_g_m2,0.9941,0.5491
+WVTR_g_m2_day,0.9886,3.2142
+OTR_cm3_m2_day,0.9310,11.5609
+Grease_kit,0.9915,0.0880
+Tensile_MD_kN_m,0.9673,0.3025
+Burst_kPa,0.9722,0.8364
+Fold_double_folds,0.9163,1.6537
+Compression_N,0.8825,2.4506
+Coating_add_on_g_m2,0.9945,0.0244
+Drying_energy_kWh_kg,0.9007,0.0064

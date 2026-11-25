@@ -1,0 +1,5 @@
+﻿Code,FSM solids (% solution),Turmeric (% dry FSM),Glycerol (% dry FSM),Interpretation
+U0,0,0,0,Uncoated PALF control
+F1,3,0,25,FSM-only coating
+FT05,3,0.5,25,FSM with 0.5 % turmeric
+FT10,3,1.0,25,FSM with 1.0 % turmeric

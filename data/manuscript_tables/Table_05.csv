@@ -1,0 +1,10 @@
+﻿Property,SHT-01,SHT-02,Unit
+Measured grammage,248,252,g m⁻²
+Caliper,620,630,µm
+Apparent density,0.40,0.40,g cm⁻³
+Moisture,7.5,7.7,%
+Tensile MD,4200,4150,N m⁻¹
+Tensile CD,2100,2050,N m⁻¹
+Burst,180,176,kPa
+Tear,520,510,mN
+Folding endurance,95,92,double folds

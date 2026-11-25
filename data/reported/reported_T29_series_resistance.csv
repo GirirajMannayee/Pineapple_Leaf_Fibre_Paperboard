@@ -1,0 +1,8 @@
+﻿Quantity,WVTR (g m⁻² day⁻¹),OTR (cm³ m⁻² day⁻¹)
+Uncoated PALF (substrate),416.3,1701.1
+FSM-coated PALF,281.4,1591.5
+Commercial reference,237.3,1544.5
+Barrier improvement factor (coated),1.48,1.07
+Equivalent transmission rate of coating alone,868,24718
+Coating share of total resistance (%),32.4,6.4
+Defect-limited ceiling for 96–98 % coverage,25–50,25–50
