@@ -1,0 +1,14 @@
+dataset,description,manuscript_source,n_rows,n_columns,n_missing_cells,origin,status
+01_pulp_batches,PALF pulp batches,Table 4,2,12,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+02_paperboard_sheets,Paperboard sheets,Table 5,2,11,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+03_fsm_batches,FSM extraction batches,Table 7,2,14,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+04_turmeric_preparations,Turmeric preparations,Table 8,2,9,2,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+05_coating_formulations,Coating formulations,Table 9,5,14,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+06_rsm_factors,RSM factors/levels,Table 11,4,6,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+07_rsm_run_means,30-run CCD run means,Tables 14-15,30,16,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+08_rsm_replicates,90 within-run replicates,Tables 36-37,90,16,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+09_package_replicates,Package replicates,Table 21,15,11,5,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+10_storage_summary,Storage group means,Table 31,18,11,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+11_storage_replicates,Storage replicates,Table 38,54,12,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+12_coating_specimens,Coated specimens,Tables 25-26,3,31,3,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
+13_coating_doe_runs,Coating DOE runs,Tables 27-28,10,21,0,Transcribed programmatically from the manuscript tables (scripts/00_extract_from_manuscript.py),Awaiting verification against original laboratory records
