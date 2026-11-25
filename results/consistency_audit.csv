@@ -1,0 +1,14 @@
+item,recalculated,reported,difference
+Pulp yield B01 (%),28.5,28.5,0.0
+Pulp yield B02 (%),27.8,27.8,0.0
+Pulp composition sum B01 (%),103.3,100.0,3.299999999999997
+Pulp composition sum B02 (%),103.0,100.0,3.0
+FSM extraction yield B01 (%),8.5,8.5,0.0
+FSM total solids B01 (%),4.722222222222222,4.7,0.022222222222222143
+FSM extraction yield B02 (%),8.2,8.2,0.0
+FSM total solids B02 (%),4.685714285714285,4.5,0.18571428571428505
+Implied coating density SP-FT05 (g cm⁻³),0.9466666666666667,,
+Implied coating density SP-FT10 (g cm⁻³),0.9387755102040817,,
+Apparent density SHT-01 (g cm⁻³),0.4,0.4,0.0
+Apparent density SHT-02 (g cm⁻³),0.4,0.4,0.0
+RSM centre-run implied coating density (g cm⁻³),0.10751111111111111,,

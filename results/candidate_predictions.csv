@@ -1,0 +1,11 @@
+response,predicted,unit
+Cobb60,66.77692660475181,g m⁻²
+WVTR,343.51822887748864,g m⁻² day⁻¹
+OTR,1593.9707977699977,cm³ m⁻² day⁻¹
+Grease kit,3.982842822645824,kit rating
+Tensile MD,32.852589018515275,kN m⁻¹
+Burst,143.81945190347443,kPa
+Folding,87.46691291193763,double folds
+Compression,217.68205977949998,N
+Coating add-on,1.9644295668827274,g m⁻²
+Drying energy,0.4794539085903354,kWh kg⁻¹
